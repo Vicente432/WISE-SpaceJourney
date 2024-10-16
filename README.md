@@ -22,11 +22,13 @@ BODY
         Misión 2: Vuelo Espacial Suborbital / Coste: $Basura espacial
         Misión 3: Misión a Marte / Coste: $Adiós familia
 
+   https://images.squarespace-cdn.com/content/v1/5d0188496041c9000164317f/1625870195136-TLMVEA0HS9X50S2GNQ3R/Sub+orbital.jpg
+
     2.2 Botón flotante  (debe acompañarnos hasta el final)   
 
     *Anexo!*
 
-3. Reserva
+4. Reserva
     3.1 Formulario .js
         Nombre
         Apellido
@@ -37,7 +39,7 @@ BODY
         Botón envio / Animación confeti o explosión *(Opcional)*
         Botón reset
 
-4. Footer   
+5. Footer   
     4.1 Logo Space, Wise y GobCan / Info comercial / Disclaimer   
     4.2 RR.SS.
     4.3 FAQ's  
